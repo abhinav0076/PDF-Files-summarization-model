@@ -4,7 +4,7 @@ This project automates text extraction and summarization from PDF files, handlin
 
 ---> Text-based PDFs (using PyMuPDF)
 
----> Scanned PDFs (Images of Text) (using Tesseract OCR)
+---> Scanned PDFs (using Tesseract OCR)
 
 The extracted text is summarized using Facebook's BART (facebook/bart-large-cnn), a state-of-the-art transformer model for abstractive summarization.
 
